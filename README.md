@@ -1,5 +1,7 @@
 # hearing-protector-65-megapack
 
+# (there are 50% warning/limit versions of this in the folder of these repos too!: https://gitlab.com/explore/projects/topics/novisoundthing )
+
 hearing-protector-65-megapack - Warn at and Limit PulseAudio MAX volume to 65%, to prevent hearing damage and ear pain. Licensed under the GNU GPL v3.0.
 
 [![Platform: GNU/Linux](https://img.shields.io/badge/platform-GNU/Linux-blue.svg)](www.kernel.org/linux.html) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
